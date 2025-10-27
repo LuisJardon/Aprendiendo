@@ -1,0 +1,10 @@
+Creame una pagina en la que tengamos 2 párrafos  que hablen sobre dos imágenes  y al darle click se vea en grande la primera y la segunda nos envié a google, 
+si pasamos el ratón por encima veremos imagen 1 e imagen 2 y
+justo despues de los parramos tendremos una lista  de los nombres de  las capitales de dos paises y
+cuando veamos el pais en negrita podamos darle y nos llevara al wikipedia de ese pais.
+Nuestra pagina tendrá una tabla que hablara de las asignaturas , el profesor que las da , 
+la nota obtenida y mi experiencia , además de una fila final que nos ponga que centro privado estamos cursando y 
+por ultimo tendrá un formulario en el que nos pedirán nuestro nombre , 
+que elijamos si la clase de hoy ha sido " buena, mala, ivan el mejor profesor" y
+luego que digamos que mejoraríamos "El tiempo de la clase , la explicación, o nada todo fue perfecto , 
+podemos seleccionar mas de una. 

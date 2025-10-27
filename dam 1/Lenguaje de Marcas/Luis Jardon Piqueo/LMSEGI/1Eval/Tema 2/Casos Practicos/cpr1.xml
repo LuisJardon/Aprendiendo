@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE libro>
+  <libro>
+      <titulo>XML Práctico</titulo>
+      <autor>LoredoPELOTA</autor>
+      <autor>MarianaDelegada</autor>
+      <editorial>Tuniverse2.0</editorial>
+      <isbn>685-885-866</isbn>
+      <edicion>14</edicion>
+      <paginas>12388</paginas>
+  </libro>
+  

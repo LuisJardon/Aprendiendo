@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE biblioteca>
+    <biblioteca>
+      <ejemplar>
+        <tipo>
+            <libro isbn="978-2-7460-4958-1" edicion="1" paginas="347"></libro>
+        </tipo>
+        <autor nombre="Thierry Boulanger"></autor>
+        <autor nombre="Sbastien Lecomte"></autor>
+        <autor nombre="Angel Belinchon Calleja" funcion="traductor"></autor>
+        <prestado lector="Pedro García">
+          <fecha_pres dia="24" mes="octubre" anio="2024"></fecha_pres>
+          <fecha_devol dia="31" mes="octubre" anio="2024"></fecha_devol>
+        </prestado>
+      </ejemplar>
+    </biblioteca>
